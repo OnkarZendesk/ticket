@@ -1,0 +1,3 @@
+service/TicketService.class
+controllers/TicketController.class
+com/zendesk/ticket/TicketApplication.class
